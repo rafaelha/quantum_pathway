@@ -16,7 +16,7 @@ and [Strawberry
 Fields](https://pennylane-sf.readthedocs.io/en/latest/installing.html).
 
 All set to go! Open
-[group_meeting.ipynb](https://github.com/rafaelha/group_meeting_qc/blob/master/group_meeting.ipynb)
+[intro_to_qc.ipynb](https://github.com/rafaelha/quantum_pathway/blob/master/learning_resources/01_intro_to_qc/intro_to_qc.ipynb)
 
 NOTE: Opening the notebook within github results in a bunch of formatting
 issues. For best experience, clone repository and open the notebook with
