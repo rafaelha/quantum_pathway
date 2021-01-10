@@ -1,0 +1,900 @@
+PWD C:/Users/rafae/Desktop/quantum_pathway/mbqc-quantum-wire/results
+INPUT C:/Users/rafae/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt
+INPUT notes.tex
+OUTPUT notes.log
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/article.cls
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size10.clo
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/keyval.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifpdf.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifvtex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/ifxetex/ifxetex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/geometry/geometry.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphicx.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/graphics.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics/trig.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/graphics.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-def/pdftex.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsmath.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amstext.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsgen.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsbsy.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsmath/amsopn.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amssymb.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/amsfonts.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/float/float.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/braket/braket.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/braket/braket.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/siunitx/siunitx.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/siunitx/siunitx.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/expl3-code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/unicode-data/UnicodeData.txt
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/unicode-data/UnicodeData.txt
+INPUT nul:.tex
+INPUT nul:.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/l3pdfmode.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3kernel/l3pdfmode.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/xparse/xparse.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/array.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/array.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/translator/translator.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/translator/translator.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/translator/translator.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/verbatim.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tools/verbatim.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/physics/physics.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/physics/physics.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikz-feynman/tikz-feynman.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikz-feynman/tikz-feynman.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclayer/pgf.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclayer/pgf.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfutil-common-lists.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ms/everyshi.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/ms/everyshi.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/pgf.revision.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/pgf.revision.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/xcolor/xcolor.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/graphics-cfg/color.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgffor.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgffor.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/math/pgfmath.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/math/pgfmath.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/math/pgfmath.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifluatex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ifluatex.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgfopts/pgfopts.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgfopts/pgfopts.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikz-feynman/tikzlibraryfeynman.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikz-feynman/tikzlibraryfeynman.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.markings.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.markings.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/graphs/tikzlibrarygraphs.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/tikz-feynman/tikzfeynman.keys.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/carlisle/slashed.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/carlisle/slashed.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/simpler-wick/simpler-wick.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/simpler-wick/simpler-wick.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/pgf/frontendlayer/libraries/tikzlibraryexternal.code.tex
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/pdftexcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/pdftexcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/infwarerr.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/ltxcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/atveryend.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/atveryend.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/atveryend.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/pgf/frontendlayer/tikz/libraries/tikzexternalshared.code.tex
+INPUT notes.aux
+INPUT notes.aux
+OUTPUT notes.aux
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/context/base/supp-pdf.mkii
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/epstopdf-base.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/grfext.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/oberdiek/kvoptions.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvsetkeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/kvsetkeys.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/etexcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/generic/oberdiek/etexcmds.sty
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ts1enc.dfu
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/ts1enc.dfu
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/translator/translator-basic-dictionary-English.dict
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/siunitx/siunitx-abbreviations.cfg
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsa.fd
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/tex/latex/amsfonts/umsb.fd
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmss8.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmtt10.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmtt8.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/cm/cmbx12.tfm
+INPUT fmin_qc0_mit1.pdf
+INPUT ./fmin_qc0_mit1.pdf
+OUTPUT notes.pdf
+INPUT ./fmin_qc0_mit1.pdf
+INPUT ./fmin_qc0_mit1.pdf
+INPUT fmin_qc0_mit0.pdf
+INPUT ./fmin_qc0_mit0.pdf
+INPUT ./fmin_qc0_mit0.pdf
+INPUT ./fmin_qc0_mit0.pdf
+INPUT fmin_qc1_mit1.pdf
+INPUT ./fmin_qc1_mit1.pdf
+INPUT ./fmin_qc1_mit1.pdf
+INPUT ./fmin_qc1_mit1.pdf
+INPUT fmin_qc1_mit0.pdf
+INPUT ./fmin_qc1_mit0.pdf
+INPUT ./fmin_qc1_mit0.pdf
+INPUT ./fmin_qc1_mit0.pdf
+INPUT fmin_qc2_mit1.pdf
+INPUT ./fmin_qc2_mit1.pdf
+INPUT ./fmin_qc2_mit1.pdf
+INPUT ./fmin_qc2_mit1.pdf
+INPUT fmin_qc2_mit0.pdf
+INPUT ./fmin_qc2_mit0.pdf
+INPUT ./fmin_qc2_mit0.pdf
+INPUT ./fmin_qc2_mit0.pdf
+INPUT fmin_qc3_mit1.pdf
+INPUT ./fmin_qc3_mit1.pdf
+INPUT ./fmin_qc3_mit1.pdf
+INPUT ./fmin_qc3_mit1.pdf
+INPUT fmin_qc3_mit0.pdf
+INPUT ./fmin_qc3_mit0.pdf
+INPUT ./fmin_qc3_mit0.pdf
+INPUT ./fmin_qc3_mit0.pdf
+INPUT fmin_qc4_mit1.pdf
+INPUT ./fmin_qc4_mit1.pdf
+INPUT ./fmin_qc4_mit1.pdf
+INPUT ./fmin_qc4_mit1.pdf
+INPUT fmin_qc4_mit0.pdf
+INPUT ./fmin_qc4_mit0.pdf
+INPUT ./fmin_qc4_mit0.pdf
+INPUT ./fmin_qc4_mit0.pdf
+INPUT fmin_qc5_mit1.pdf
+INPUT ./fmin_qc5_mit1.pdf
+INPUT ./fmin_qc5_mit1.pdf
+INPUT ./fmin_qc5_mit1.pdf
+INPUT fmin_qc5_mit0.pdf
+INPUT ./fmin_qc5_mit0.pdf
+INPUT ./fmin_qc5_mit0.pdf
+INPUT ./fmin_qc5_mit0.pdf
+INPUT fmin_qc6_mit1.pdf
+INPUT ./fmin_qc6_mit1.pdf
+INPUT ./fmin_qc6_mit1.pdf
+INPUT ./fmin_qc6_mit1.pdf
+INPUT fmin_qc6_mit0.pdf
+INPUT ./fmin_qc6_mit0.pdf
+INPUT ./fmin_qc6_mit0.pdf
+INPUT ./fmin_qc6_mit0.pdf
+INPUT fmin_qc7_mit1.pdf
+INPUT ./fmin_qc7_mit1.pdf
+INPUT ./fmin_qc7_mit1.pdf
+INPUT ./fmin_qc7_mit1.pdf
+INPUT fmin_qc7_mit0.pdf
+INPUT ./fmin_qc7_mit0.pdf
+INPUT ./fmin_qc7_mit0.pdf
+INPUT ./fmin_qc7_mit0.pdf
+INPUT fmin_qc8_mit1.pdf
+INPUT ./fmin_qc8_mit1.pdf
+INPUT ./fmin_qc8_mit1.pdf
+INPUT ./fmin_qc8_mit1.pdf
+INPUT fmin_qc8_mit0.pdf
+INPUT ./fmin_qc8_mit0.pdf
+INPUT ./fmin_qc8_mit0.pdf
+INPUT ./fmin_qc8_mit0.pdf
+INPUT fmin_qc9_mit1.pdf
+INPUT ./fmin_qc9_mit1.pdf
+INPUT ./fmin_qc9_mit1.pdf
+INPUT ./fmin_qc9_mit1.pdf
+INPUT fmin_qc9_mit0.pdf
+INPUT ./fmin_qc9_mit0.pdf
+INPUT ./fmin_qc9_mit0.pdf
+INPUT ./fmin_qc9_mit0.pdf
+INPUT fmin_qc10_mit1.pdf
+INPUT ./fmin_qc10_mit1.pdf
+INPUT ./fmin_qc10_mit1.pdf
+INPUT ./fmin_qc10_mit1.pdf
+INPUT fmin_qc10_mit0.pdf
+INPUT ./fmin_qc10_mit0.pdf
+INPUT ./fmin_qc10_mit0.pdf
+INPUT ./fmin_qc10_mit0.pdf
+INPUT C:/Users/rafae/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map
+INPUT fidelity_qc0_mit1_state0.pdf
+INPUT ./fidelity_qc0_mit1_state0.pdf
+INPUT ./fidelity_qc0_mit1_state0.pdf
+INPUT ./fidelity_qc0_mit1_state0.pdf
+INPUT fidelity_qc0_mit0_state0.pdf
+INPUT ./fidelity_qc0_mit0_state0.pdf
+INPUT ./fidelity_qc0_mit0_state0.pdf
+INPUT ./fidelity_qc0_mit0_state0.pdf
+INPUT fidelity_qc0_mit1_state1.pdf
+INPUT ./fidelity_qc0_mit1_state1.pdf
+INPUT ./fidelity_qc0_mit1_state1.pdf
+INPUT ./fidelity_qc0_mit1_state1.pdf
+INPUT fidelity_qc0_mit0_state1.pdf
+INPUT ./fidelity_qc0_mit0_state1.pdf
+INPUT ./fidelity_qc0_mit0_state1.pdf
+INPUT ./fidelity_qc0_mit0_state1.pdf
+INPUT fidelity_qc0_mit1_state2.pdf
+INPUT ./fidelity_qc0_mit1_state2.pdf
+INPUT ./fidelity_qc0_mit1_state2.pdf
+INPUT ./fidelity_qc0_mit1_state2.pdf
+INPUT fidelity_qc0_mit0_state2.pdf
+INPUT ./fidelity_qc0_mit0_state2.pdf
+INPUT ./fidelity_qc0_mit0_state2.pdf
+INPUT ./fidelity_qc0_mit0_state2.pdf
+INPUT fidelity_qc0_mit1_state3.pdf
+INPUT ./fidelity_qc0_mit1_state3.pdf
+INPUT ./fidelity_qc0_mit1_state3.pdf
+INPUT ./fidelity_qc0_mit1_state3.pdf
+INPUT fidelity_qc0_mit0_state3.pdf
+INPUT ./fidelity_qc0_mit0_state3.pdf
+INPUT ./fidelity_qc0_mit0_state3.pdf
+INPUT ./fidelity_qc0_mit0_state3.pdf
+INPUT fidelity_qc0_mit1_state4.pdf
+INPUT ./fidelity_qc0_mit1_state4.pdf
+INPUT ./fidelity_qc0_mit1_state4.pdf
+INPUT ./fidelity_qc0_mit1_state4.pdf
+INPUT fidelity_qc0_mit0_state4.pdf
+INPUT ./fidelity_qc0_mit0_state4.pdf
+INPUT ./fidelity_qc0_mit0_state4.pdf
+INPUT ./fidelity_qc0_mit0_state4.pdf
+INPUT fidelity_qc0_mit1_state5.pdf
+INPUT ./fidelity_qc0_mit1_state5.pdf
+INPUT ./fidelity_qc0_mit1_state5.pdf
+INPUT ./fidelity_qc0_mit1_state5.pdf
+INPUT fidelity_qc0_mit0_state5.pdf
+INPUT ./fidelity_qc0_mit0_state5.pdf
+INPUT ./fidelity_qc0_mit0_state5.pdf
+INPUT ./fidelity_qc0_mit0_state5.pdf
+INPUT fidelity_qc1_mit1_state0.pdf
+INPUT ./fidelity_qc1_mit1_state0.pdf
+INPUT ./fidelity_qc1_mit1_state0.pdf
+INPUT ./fidelity_qc1_mit1_state0.pdf
+INPUT fidelity_qc1_mit0_state0.pdf
+INPUT ./fidelity_qc1_mit0_state0.pdf
+INPUT ./fidelity_qc1_mit0_state0.pdf
+INPUT ./fidelity_qc1_mit0_state0.pdf
+INPUT fidelity_qc1_mit1_state1.pdf
+INPUT ./fidelity_qc1_mit1_state1.pdf
+INPUT ./fidelity_qc1_mit1_state1.pdf
+INPUT ./fidelity_qc1_mit1_state1.pdf
+INPUT fidelity_qc1_mit0_state1.pdf
+INPUT ./fidelity_qc1_mit0_state1.pdf
+INPUT ./fidelity_qc1_mit0_state1.pdf
+INPUT ./fidelity_qc1_mit0_state1.pdf
+INPUT fidelity_qc1_mit1_state2.pdf
+INPUT ./fidelity_qc1_mit1_state2.pdf
+INPUT ./fidelity_qc1_mit1_state2.pdf
+INPUT ./fidelity_qc1_mit1_state2.pdf
+INPUT fidelity_qc1_mit0_state2.pdf
+INPUT ./fidelity_qc1_mit0_state2.pdf
+INPUT ./fidelity_qc1_mit0_state2.pdf
+INPUT ./fidelity_qc1_mit0_state2.pdf
+INPUT fidelity_qc1_mit1_state3.pdf
+INPUT ./fidelity_qc1_mit1_state3.pdf
+INPUT ./fidelity_qc1_mit1_state3.pdf
+INPUT ./fidelity_qc1_mit1_state3.pdf
+INPUT fidelity_qc1_mit0_state3.pdf
+INPUT ./fidelity_qc1_mit0_state3.pdf
+INPUT ./fidelity_qc1_mit0_state3.pdf
+INPUT ./fidelity_qc1_mit0_state3.pdf
+INPUT fidelity_qc1_mit1_state4.pdf
+INPUT ./fidelity_qc1_mit1_state4.pdf
+INPUT ./fidelity_qc1_mit1_state4.pdf
+INPUT ./fidelity_qc1_mit1_state4.pdf
+INPUT fidelity_qc1_mit0_state4.pdf
+INPUT ./fidelity_qc1_mit0_state4.pdf
+INPUT ./fidelity_qc1_mit0_state4.pdf
+INPUT ./fidelity_qc1_mit0_state4.pdf
+INPUT fidelity_qc1_mit1_state5.pdf
+INPUT ./fidelity_qc1_mit1_state5.pdf
+INPUT ./fidelity_qc1_mit1_state5.pdf
+INPUT ./fidelity_qc1_mit1_state5.pdf
+INPUT fidelity_qc1_mit0_state5.pdf
+INPUT ./fidelity_qc1_mit0_state5.pdf
+INPUT ./fidelity_qc1_mit0_state5.pdf
+INPUT ./fidelity_qc1_mit0_state5.pdf
+INPUT fidelity_qc2_mit1_state0.pdf
+INPUT ./fidelity_qc2_mit1_state0.pdf
+INPUT ./fidelity_qc2_mit1_state0.pdf
+INPUT ./fidelity_qc2_mit1_state0.pdf
+INPUT fidelity_qc2_mit0_state0.pdf
+INPUT ./fidelity_qc2_mit0_state0.pdf
+INPUT ./fidelity_qc2_mit0_state0.pdf
+INPUT ./fidelity_qc2_mit0_state0.pdf
+INPUT fidelity_qc2_mit1_state1.pdf
+INPUT ./fidelity_qc2_mit1_state1.pdf
+INPUT ./fidelity_qc2_mit1_state1.pdf
+INPUT ./fidelity_qc2_mit1_state1.pdf
+INPUT fidelity_qc2_mit0_state1.pdf
+INPUT ./fidelity_qc2_mit0_state1.pdf
+INPUT ./fidelity_qc2_mit0_state1.pdf
+INPUT ./fidelity_qc2_mit0_state1.pdf
+INPUT fidelity_qc2_mit1_state2.pdf
+INPUT ./fidelity_qc2_mit1_state2.pdf
+INPUT ./fidelity_qc2_mit1_state2.pdf
+INPUT ./fidelity_qc2_mit1_state2.pdf
+INPUT fidelity_qc2_mit0_state2.pdf
+INPUT ./fidelity_qc2_mit0_state2.pdf
+INPUT ./fidelity_qc2_mit0_state2.pdf
+INPUT ./fidelity_qc2_mit0_state2.pdf
+INPUT fidelity_qc2_mit1_state3.pdf
+INPUT ./fidelity_qc2_mit1_state3.pdf
+INPUT ./fidelity_qc2_mit1_state3.pdf
+INPUT ./fidelity_qc2_mit1_state3.pdf
+INPUT fidelity_qc2_mit0_state3.pdf
+INPUT ./fidelity_qc2_mit0_state3.pdf
+INPUT ./fidelity_qc2_mit0_state3.pdf
+INPUT ./fidelity_qc2_mit0_state3.pdf
+INPUT fidelity_qc2_mit1_state4.pdf
+INPUT ./fidelity_qc2_mit1_state4.pdf
+INPUT ./fidelity_qc2_mit1_state4.pdf
+INPUT ./fidelity_qc2_mit1_state4.pdf
+INPUT fidelity_qc2_mit0_state4.pdf
+INPUT ./fidelity_qc2_mit0_state4.pdf
+INPUT ./fidelity_qc2_mit0_state4.pdf
+INPUT ./fidelity_qc2_mit0_state4.pdf
+INPUT fidelity_qc2_mit1_state5.pdf
+INPUT ./fidelity_qc2_mit1_state5.pdf
+INPUT ./fidelity_qc2_mit1_state5.pdf
+INPUT ./fidelity_qc2_mit1_state5.pdf
+INPUT fidelity_qc2_mit0_state5.pdf
+INPUT ./fidelity_qc2_mit0_state5.pdf
+INPUT ./fidelity_qc2_mit0_state5.pdf
+INPUT ./fidelity_qc2_mit0_state5.pdf
+INPUT fidelity_qc3_mit1_state0.pdf
+INPUT ./fidelity_qc3_mit1_state0.pdf
+INPUT ./fidelity_qc3_mit1_state0.pdf
+INPUT ./fidelity_qc3_mit1_state0.pdf
+INPUT fidelity_qc3_mit0_state0.pdf
+INPUT ./fidelity_qc3_mit0_state0.pdf
+INPUT ./fidelity_qc3_mit0_state0.pdf
+INPUT ./fidelity_qc3_mit0_state0.pdf
+INPUT fidelity_qc3_mit1_state1.pdf
+INPUT ./fidelity_qc3_mit1_state1.pdf
+INPUT ./fidelity_qc3_mit1_state1.pdf
+INPUT ./fidelity_qc3_mit1_state1.pdf
+INPUT fidelity_qc3_mit0_state1.pdf
+INPUT ./fidelity_qc3_mit0_state1.pdf
+INPUT ./fidelity_qc3_mit0_state1.pdf
+INPUT ./fidelity_qc3_mit0_state1.pdf
+INPUT fidelity_qc3_mit1_state2.pdf
+INPUT ./fidelity_qc3_mit1_state2.pdf
+INPUT ./fidelity_qc3_mit1_state2.pdf
+INPUT ./fidelity_qc3_mit1_state2.pdf
+INPUT fidelity_qc3_mit0_state2.pdf
+INPUT ./fidelity_qc3_mit0_state2.pdf
+INPUT ./fidelity_qc3_mit0_state2.pdf
+INPUT ./fidelity_qc3_mit0_state2.pdf
+INPUT fidelity_qc3_mit1_state3.pdf
+INPUT ./fidelity_qc3_mit1_state3.pdf
+INPUT ./fidelity_qc3_mit1_state3.pdf
+INPUT ./fidelity_qc3_mit1_state3.pdf
+INPUT fidelity_qc3_mit0_state3.pdf
+INPUT ./fidelity_qc3_mit0_state3.pdf
+INPUT ./fidelity_qc3_mit0_state3.pdf
+INPUT ./fidelity_qc3_mit0_state3.pdf
+INPUT fidelity_qc3_mit1_state4.pdf
+INPUT ./fidelity_qc3_mit1_state4.pdf
+INPUT ./fidelity_qc3_mit1_state4.pdf
+INPUT ./fidelity_qc3_mit1_state4.pdf
+INPUT fidelity_qc3_mit0_state4.pdf
+INPUT ./fidelity_qc3_mit0_state4.pdf
+INPUT ./fidelity_qc3_mit0_state4.pdf
+INPUT ./fidelity_qc3_mit0_state4.pdf
+INPUT fidelity_qc3_mit1_state5.pdf
+INPUT ./fidelity_qc3_mit1_state5.pdf
+INPUT ./fidelity_qc3_mit1_state5.pdf
+INPUT ./fidelity_qc3_mit1_state5.pdf
+INPUT fidelity_qc3_mit0_state5.pdf
+INPUT ./fidelity_qc3_mit0_state5.pdf
+INPUT ./fidelity_qc3_mit0_state5.pdf
+INPUT ./fidelity_qc3_mit0_state5.pdf
+INPUT fidelity_qc4_mit1_state0.pdf
+INPUT ./fidelity_qc4_mit1_state0.pdf
+INPUT ./fidelity_qc4_mit1_state0.pdf
+INPUT ./fidelity_qc4_mit1_state0.pdf
+INPUT fidelity_qc4_mit0_state0.pdf
+INPUT ./fidelity_qc4_mit0_state0.pdf
+INPUT ./fidelity_qc4_mit0_state0.pdf
+INPUT ./fidelity_qc4_mit0_state0.pdf
+INPUT fidelity_qc4_mit1_state1.pdf
+INPUT ./fidelity_qc4_mit1_state1.pdf
+INPUT ./fidelity_qc4_mit1_state1.pdf
+INPUT ./fidelity_qc4_mit1_state1.pdf
+INPUT fidelity_qc4_mit0_state1.pdf
+INPUT ./fidelity_qc4_mit0_state1.pdf
+INPUT ./fidelity_qc4_mit0_state1.pdf
+INPUT ./fidelity_qc4_mit0_state1.pdf
+INPUT fidelity_qc4_mit1_state2.pdf
+INPUT ./fidelity_qc4_mit1_state2.pdf
+INPUT ./fidelity_qc4_mit1_state2.pdf
+INPUT ./fidelity_qc4_mit1_state2.pdf
+INPUT fidelity_qc4_mit0_state2.pdf
+INPUT ./fidelity_qc4_mit0_state2.pdf
+INPUT ./fidelity_qc4_mit0_state2.pdf
+INPUT ./fidelity_qc4_mit0_state2.pdf
+INPUT fidelity_qc4_mit1_state3.pdf
+INPUT ./fidelity_qc4_mit1_state3.pdf
+INPUT ./fidelity_qc4_mit1_state3.pdf
+INPUT ./fidelity_qc4_mit1_state3.pdf
+INPUT fidelity_qc4_mit0_state3.pdf
+INPUT ./fidelity_qc4_mit0_state3.pdf
+INPUT ./fidelity_qc4_mit0_state3.pdf
+INPUT ./fidelity_qc4_mit0_state3.pdf
+INPUT fidelity_qc4_mit1_state4.pdf
+INPUT ./fidelity_qc4_mit1_state4.pdf
+INPUT ./fidelity_qc4_mit1_state4.pdf
+INPUT ./fidelity_qc4_mit1_state4.pdf
+INPUT fidelity_qc4_mit0_state4.pdf
+INPUT ./fidelity_qc4_mit0_state4.pdf
+INPUT ./fidelity_qc4_mit0_state4.pdf
+INPUT ./fidelity_qc4_mit0_state4.pdf
+INPUT fidelity_qc4_mit1_state5.pdf
+INPUT ./fidelity_qc4_mit1_state5.pdf
+INPUT ./fidelity_qc4_mit1_state5.pdf
+INPUT ./fidelity_qc4_mit1_state5.pdf
+INPUT fidelity_qc4_mit0_state5.pdf
+INPUT ./fidelity_qc4_mit0_state5.pdf
+INPUT ./fidelity_qc4_mit0_state5.pdf
+INPUT ./fidelity_qc4_mit0_state5.pdf
+INPUT fidelity_qc5_mit1_state0.pdf
+INPUT ./fidelity_qc5_mit1_state0.pdf
+INPUT ./fidelity_qc5_mit1_state0.pdf
+INPUT ./fidelity_qc5_mit1_state0.pdf
+INPUT fidelity_qc5_mit0_state0.pdf
+INPUT ./fidelity_qc5_mit0_state0.pdf
+INPUT ./fidelity_qc5_mit0_state0.pdf
+INPUT ./fidelity_qc5_mit0_state0.pdf
+INPUT fidelity_qc5_mit1_state1.pdf
+INPUT ./fidelity_qc5_mit1_state1.pdf
+INPUT ./fidelity_qc5_mit1_state1.pdf
+INPUT ./fidelity_qc5_mit1_state1.pdf
+INPUT fidelity_qc5_mit0_state1.pdf
+INPUT ./fidelity_qc5_mit0_state1.pdf
+INPUT ./fidelity_qc5_mit0_state1.pdf
+INPUT ./fidelity_qc5_mit0_state1.pdf
+INPUT fidelity_qc5_mit1_state2.pdf
+INPUT ./fidelity_qc5_mit1_state2.pdf
+INPUT ./fidelity_qc5_mit1_state2.pdf
+INPUT ./fidelity_qc5_mit1_state2.pdf
+INPUT fidelity_qc5_mit0_state2.pdf
+INPUT ./fidelity_qc5_mit0_state2.pdf
+INPUT ./fidelity_qc5_mit0_state2.pdf
+INPUT ./fidelity_qc5_mit0_state2.pdf
+INPUT fidelity_qc5_mit1_state3.pdf
+INPUT ./fidelity_qc5_mit1_state3.pdf
+INPUT ./fidelity_qc5_mit1_state3.pdf
+INPUT ./fidelity_qc5_mit1_state3.pdf
+INPUT fidelity_qc5_mit0_state3.pdf
+INPUT ./fidelity_qc5_mit0_state3.pdf
+INPUT ./fidelity_qc5_mit0_state3.pdf
+INPUT ./fidelity_qc5_mit0_state3.pdf
+INPUT fidelity_qc5_mit1_state4.pdf
+INPUT ./fidelity_qc5_mit1_state4.pdf
+INPUT ./fidelity_qc5_mit1_state4.pdf
+INPUT ./fidelity_qc5_mit1_state4.pdf
+INPUT fidelity_qc5_mit0_state4.pdf
+INPUT ./fidelity_qc5_mit0_state4.pdf
+INPUT ./fidelity_qc5_mit0_state4.pdf
+INPUT ./fidelity_qc5_mit0_state4.pdf
+INPUT fidelity_qc5_mit1_state5.pdf
+INPUT ./fidelity_qc5_mit1_state5.pdf
+INPUT ./fidelity_qc5_mit1_state5.pdf
+INPUT ./fidelity_qc5_mit1_state5.pdf
+INPUT fidelity_qc5_mit0_state5.pdf
+INPUT ./fidelity_qc5_mit0_state5.pdf
+INPUT ./fidelity_qc5_mit0_state5.pdf
+INPUT ./fidelity_qc5_mit0_state5.pdf
+INPUT fidelity_qc6_mit1_state0.pdf
+INPUT ./fidelity_qc6_mit1_state0.pdf
+INPUT ./fidelity_qc6_mit1_state0.pdf
+INPUT ./fidelity_qc6_mit1_state0.pdf
+INPUT fidelity_qc6_mit0_state0.pdf
+INPUT ./fidelity_qc6_mit0_state0.pdf
+INPUT ./fidelity_qc6_mit0_state0.pdf
+INPUT ./fidelity_qc6_mit0_state0.pdf
+INPUT fidelity_qc6_mit1_state1.pdf
+INPUT ./fidelity_qc6_mit1_state1.pdf
+INPUT ./fidelity_qc6_mit1_state1.pdf
+INPUT ./fidelity_qc6_mit1_state1.pdf
+INPUT fidelity_qc6_mit0_state1.pdf
+INPUT ./fidelity_qc6_mit0_state1.pdf
+INPUT ./fidelity_qc6_mit0_state1.pdf
+INPUT ./fidelity_qc6_mit0_state1.pdf
+INPUT fidelity_qc6_mit1_state2.pdf
+INPUT ./fidelity_qc6_mit1_state2.pdf
+INPUT ./fidelity_qc6_mit1_state2.pdf
+INPUT ./fidelity_qc6_mit1_state2.pdf
+INPUT fidelity_qc6_mit0_state2.pdf
+INPUT ./fidelity_qc6_mit0_state2.pdf
+INPUT ./fidelity_qc6_mit0_state2.pdf
+INPUT ./fidelity_qc6_mit0_state2.pdf
+INPUT fidelity_qc6_mit1_state3.pdf
+INPUT ./fidelity_qc6_mit1_state3.pdf
+INPUT ./fidelity_qc6_mit1_state3.pdf
+INPUT ./fidelity_qc6_mit1_state3.pdf
+INPUT fidelity_qc6_mit0_state3.pdf
+INPUT ./fidelity_qc6_mit0_state3.pdf
+INPUT ./fidelity_qc6_mit0_state3.pdf
+INPUT ./fidelity_qc6_mit0_state3.pdf
+INPUT fidelity_qc6_mit1_state4.pdf
+INPUT ./fidelity_qc6_mit1_state4.pdf
+INPUT ./fidelity_qc6_mit1_state4.pdf
+INPUT ./fidelity_qc6_mit1_state4.pdf
+INPUT fidelity_qc6_mit0_state4.pdf
+INPUT ./fidelity_qc6_mit0_state4.pdf
+INPUT ./fidelity_qc6_mit0_state4.pdf
+INPUT ./fidelity_qc6_mit0_state4.pdf
+INPUT fidelity_qc6_mit1_state5.pdf
+INPUT ./fidelity_qc6_mit1_state5.pdf
+INPUT ./fidelity_qc6_mit1_state5.pdf
+INPUT ./fidelity_qc6_mit1_state5.pdf
+INPUT fidelity_qc6_mit0_state5.pdf
+INPUT ./fidelity_qc6_mit0_state5.pdf
+INPUT ./fidelity_qc6_mit0_state5.pdf
+INPUT ./fidelity_qc6_mit0_state5.pdf
+INPUT fidelity_qc7_mit1_state0.pdf
+INPUT ./fidelity_qc7_mit1_state0.pdf
+INPUT ./fidelity_qc7_mit1_state0.pdf
+INPUT ./fidelity_qc7_mit1_state0.pdf
+INPUT fidelity_qc7_mit0_state0.pdf
+INPUT ./fidelity_qc7_mit0_state0.pdf
+INPUT ./fidelity_qc7_mit0_state0.pdf
+INPUT ./fidelity_qc7_mit0_state0.pdf
+INPUT fidelity_qc7_mit1_state1.pdf
+INPUT ./fidelity_qc7_mit1_state1.pdf
+INPUT ./fidelity_qc7_mit1_state1.pdf
+INPUT ./fidelity_qc7_mit1_state1.pdf
+INPUT fidelity_qc7_mit0_state1.pdf
+INPUT ./fidelity_qc7_mit0_state1.pdf
+INPUT ./fidelity_qc7_mit0_state1.pdf
+INPUT ./fidelity_qc7_mit0_state1.pdf
+INPUT fidelity_qc7_mit1_state2.pdf
+INPUT ./fidelity_qc7_mit1_state2.pdf
+INPUT ./fidelity_qc7_mit1_state2.pdf
+INPUT ./fidelity_qc7_mit1_state2.pdf
+INPUT fidelity_qc7_mit0_state2.pdf
+INPUT ./fidelity_qc7_mit0_state2.pdf
+INPUT ./fidelity_qc7_mit0_state2.pdf
+INPUT ./fidelity_qc7_mit0_state2.pdf
+INPUT fidelity_qc7_mit1_state3.pdf
+INPUT ./fidelity_qc7_mit1_state3.pdf
+INPUT ./fidelity_qc7_mit1_state3.pdf
+INPUT ./fidelity_qc7_mit1_state3.pdf
+INPUT fidelity_qc7_mit0_state3.pdf
+INPUT ./fidelity_qc7_mit0_state3.pdf
+INPUT ./fidelity_qc7_mit0_state3.pdf
+INPUT ./fidelity_qc7_mit0_state3.pdf
+INPUT fidelity_qc7_mit1_state4.pdf
+INPUT ./fidelity_qc7_mit1_state4.pdf
+INPUT ./fidelity_qc7_mit1_state4.pdf
+INPUT ./fidelity_qc7_mit1_state4.pdf
+INPUT fidelity_qc7_mit0_state4.pdf
+INPUT ./fidelity_qc7_mit0_state4.pdf
+INPUT ./fidelity_qc7_mit0_state4.pdf
+INPUT ./fidelity_qc7_mit0_state4.pdf
+INPUT fidelity_qc7_mit1_state5.pdf
+INPUT ./fidelity_qc7_mit1_state5.pdf
+INPUT ./fidelity_qc7_mit1_state5.pdf
+INPUT ./fidelity_qc7_mit1_state5.pdf
+INPUT fidelity_qc7_mit0_state5.pdf
+INPUT ./fidelity_qc7_mit0_state5.pdf
+INPUT ./fidelity_qc7_mit0_state5.pdf
+INPUT ./fidelity_qc7_mit0_state5.pdf
+INPUT fidelity_qc8_mit1_state0.pdf
+INPUT ./fidelity_qc8_mit1_state0.pdf
+INPUT ./fidelity_qc8_mit1_state0.pdf
+INPUT ./fidelity_qc8_mit1_state0.pdf
+INPUT fidelity_qc8_mit0_state0.pdf
+INPUT ./fidelity_qc8_mit0_state0.pdf
+INPUT ./fidelity_qc8_mit0_state0.pdf
+INPUT ./fidelity_qc8_mit0_state0.pdf
+INPUT fidelity_qc8_mit1_state1.pdf
+INPUT ./fidelity_qc8_mit1_state1.pdf
+INPUT ./fidelity_qc8_mit1_state1.pdf
+INPUT ./fidelity_qc8_mit1_state1.pdf
+INPUT fidelity_qc8_mit0_state1.pdf
+INPUT ./fidelity_qc8_mit0_state1.pdf
+INPUT ./fidelity_qc8_mit0_state1.pdf
+INPUT ./fidelity_qc8_mit0_state1.pdf
+INPUT fidelity_qc8_mit1_state2.pdf
+INPUT ./fidelity_qc8_mit1_state2.pdf
+INPUT ./fidelity_qc8_mit1_state2.pdf
+INPUT ./fidelity_qc8_mit1_state2.pdf
+INPUT fidelity_qc8_mit0_state2.pdf
+INPUT ./fidelity_qc8_mit0_state2.pdf
+INPUT ./fidelity_qc8_mit0_state2.pdf
+INPUT ./fidelity_qc8_mit0_state2.pdf
+INPUT fidelity_qc8_mit1_state3.pdf
+INPUT ./fidelity_qc8_mit1_state3.pdf
+INPUT ./fidelity_qc8_mit1_state3.pdf
+INPUT ./fidelity_qc8_mit1_state3.pdf
+INPUT fidelity_qc8_mit0_state3.pdf
+INPUT ./fidelity_qc8_mit0_state3.pdf
+INPUT ./fidelity_qc8_mit0_state3.pdf
+INPUT ./fidelity_qc8_mit0_state3.pdf
+INPUT fidelity_qc8_mit1_state4.pdf
+INPUT ./fidelity_qc8_mit1_state4.pdf
+INPUT ./fidelity_qc8_mit1_state4.pdf
+INPUT ./fidelity_qc8_mit1_state4.pdf
+INPUT fidelity_qc8_mit0_state4.pdf
+INPUT ./fidelity_qc8_mit0_state4.pdf
+INPUT ./fidelity_qc8_mit0_state4.pdf
+INPUT ./fidelity_qc8_mit0_state4.pdf
+INPUT fidelity_qc8_mit1_state5.pdf
+INPUT ./fidelity_qc8_mit1_state5.pdf
+INPUT ./fidelity_qc8_mit1_state5.pdf
+INPUT ./fidelity_qc8_mit1_state5.pdf
+INPUT fidelity_qc8_mit0_state5.pdf
+INPUT ./fidelity_qc8_mit0_state5.pdf
+INPUT ./fidelity_qc8_mit0_state5.pdf
+INPUT ./fidelity_qc8_mit0_state5.pdf
+INPUT fidelity_qc9_mit1_state0.pdf
+INPUT ./fidelity_qc9_mit1_state0.pdf
+INPUT ./fidelity_qc9_mit1_state0.pdf
+INPUT ./fidelity_qc9_mit1_state0.pdf
+INPUT fidelity_qc9_mit0_state0.pdf
+INPUT ./fidelity_qc9_mit0_state0.pdf
+INPUT ./fidelity_qc9_mit0_state0.pdf
+INPUT ./fidelity_qc9_mit0_state0.pdf
+INPUT fidelity_qc9_mit1_state1.pdf
+INPUT ./fidelity_qc9_mit1_state1.pdf
+INPUT ./fidelity_qc9_mit1_state1.pdf
+INPUT ./fidelity_qc9_mit1_state1.pdf
+INPUT fidelity_qc9_mit0_state1.pdf
+INPUT ./fidelity_qc9_mit0_state1.pdf
+INPUT ./fidelity_qc9_mit0_state1.pdf
+INPUT ./fidelity_qc9_mit0_state1.pdf
+INPUT fidelity_qc9_mit1_state2.pdf
+INPUT ./fidelity_qc9_mit1_state2.pdf
+INPUT ./fidelity_qc9_mit1_state2.pdf
+INPUT ./fidelity_qc9_mit1_state2.pdf
+INPUT fidelity_qc9_mit0_state2.pdf
+INPUT ./fidelity_qc9_mit0_state2.pdf
+INPUT ./fidelity_qc9_mit0_state2.pdf
+INPUT ./fidelity_qc9_mit0_state2.pdf
+INPUT fidelity_qc9_mit1_state3.pdf
+INPUT ./fidelity_qc9_mit1_state3.pdf
+INPUT ./fidelity_qc9_mit1_state3.pdf
+INPUT ./fidelity_qc9_mit1_state3.pdf
+INPUT fidelity_qc9_mit0_state3.pdf
+INPUT ./fidelity_qc9_mit0_state3.pdf
+INPUT ./fidelity_qc9_mit0_state3.pdf
+INPUT ./fidelity_qc9_mit0_state3.pdf
+INPUT fidelity_qc9_mit1_state4.pdf
+INPUT ./fidelity_qc9_mit1_state4.pdf
+INPUT ./fidelity_qc9_mit1_state4.pdf
+INPUT ./fidelity_qc9_mit1_state4.pdf
+INPUT fidelity_qc9_mit0_state4.pdf
+INPUT ./fidelity_qc9_mit0_state4.pdf
+INPUT ./fidelity_qc9_mit0_state4.pdf
+INPUT ./fidelity_qc9_mit0_state4.pdf
+INPUT fidelity_qc9_mit1_state5.pdf
+INPUT ./fidelity_qc9_mit1_state5.pdf
+INPUT ./fidelity_qc9_mit1_state5.pdf
+INPUT ./fidelity_qc9_mit1_state5.pdf
+INPUT fidelity_qc9_mit0_state5.pdf
+INPUT ./fidelity_qc9_mit0_state5.pdf
+INPUT ./fidelity_qc9_mit0_state5.pdf
+INPUT ./fidelity_qc9_mit0_state5.pdf
+INPUT fidelity_qc10_mit1_state0.pdf
+INPUT ./fidelity_qc10_mit1_state0.pdf
+INPUT ./fidelity_qc10_mit1_state0.pdf
+INPUT ./fidelity_qc10_mit1_state0.pdf
+INPUT fidelity_qc10_mit0_state0.pdf
+INPUT ./fidelity_qc10_mit0_state0.pdf
+INPUT ./fidelity_qc10_mit0_state0.pdf
+INPUT ./fidelity_qc10_mit0_state0.pdf
+INPUT fidelity_qc10_mit1_state1.pdf
+INPUT ./fidelity_qc10_mit1_state1.pdf
+INPUT ./fidelity_qc10_mit1_state1.pdf
+INPUT ./fidelity_qc10_mit1_state1.pdf
+INPUT fidelity_qc10_mit0_state1.pdf
+INPUT ./fidelity_qc10_mit0_state1.pdf
+INPUT ./fidelity_qc10_mit0_state1.pdf
+INPUT ./fidelity_qc10_mit0_state1.pdf
+INPUT fidelity_qc10_mit1_state2.pdf
+INPUT ./fidelity_qc10_mit1_state2.pdf
+INPUT ./fidelity_qc10_mit1_state2.pdf
+INPUT ./fidelity_qc10_mit1_state2.pdf
+INPUT fidelity_qc10_mit0_state2.pdf
+INPUT ./fidelity_qc10_mit0_state2.pdf
+INPUT ./fidelity_qc10_mit0_state2.pdf
+INPUT ./fidelity_qc10_mit0_state2.pdf
+INPUT fidelity_qc10_mit1_state3.pdf
+INPUT ./fidelity_qc10_mit1_state3.pdf
+INPUT ./fidelity_qc10_mit1_state3.pdf
+INPUT ./fidelity_qc10_mit1_state3.pdf
+INPUT fidelity_qc10_mit0_state3.pdf
+INPUT ./fidelity_qc10_mit0_state3.pdf
+INPUT ./fidelity_qc10_mit0_state3.pdf
+INPUT ./fidelity_qc10_mit0_state3.pdf
+INPUT fidelity_qc10_mit1_state4.pdf
+INPUT ./fidelity_qc10_mit1_state4.pdf
+INPUT ./fidelity_qc10_mit1_state4.pdf
+INPUT ./fidelity_qc10_mit1_state4.pdf
+INPUT fidelity_qc10_mit0_state4.pdf
+INPUT ./fidelity_qc10_mit0_state4.pdf
+INPUT ./fidelity_qc10_mit0_state4.pdf
+INPUT ./fidelity_qc10_mit0_state4.pdf
+INPUT fidelity_qc10_mit1_state5.pdf
+INPUT ./fidelity_qc10_mit1_state5.pdf
+INPUT ./fidelity_qc10_mit1_state5.pdf
+INPUT ./fidelity_qc10_mit1_state5.pdf
+INPUT fidelity_qc10_mit0_state5.pdf
+INPUT ./fidelity_qc10_mit0_state5.pdf
+INPUT ./fidelity_qc10_mit0_state5.pdf
+INPUT ./fidelity_qc10_mit0_state5.pdf
+INPUT notes.aux
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT C:/Users/rafae/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
